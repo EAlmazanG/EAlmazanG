@@ -29,11 +29,12 @@
 - Spatial Data Analysis (GIS, ArcGIS, GeoPandas, ArcPy...)
 - AWS, Google Cloud, Azure.
 - Metabase, Superset, Power BI, Looker, Tableau, Amplitude, Streamlit apps...
+- Need more details? [Check my CV!](https://drive.google.com/file/d/1U3t_1KJ9Jy3EeA-RDYKonyP7VKC_dP_p/view)
 
 
 **🧪My latest projects**
-- **🔓🏁 sentiment-analysis-reviews:** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
 - **🔐🏁 GSP**: Fully automated monitoring and investment system using Python and AWS.
+- **🔓🏁 [sentiment-analysis-reviews:](https://github.com/EAlmazanG/sentiment-analysis-reviews)** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
 - ✍🏼 and more coming soon...
 
 
