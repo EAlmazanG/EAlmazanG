@@ -35,7 +35,8 @@
 **🧪My latest projects**
 - **🔐🏁 GSP**: Fully automated monitoring and investment system using Python and AWS.
 - **🔓🏁 [sentiment-analysis-reviews:](https://github.com/EAlmazanG/sentiment-analysis-reviews)** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
-- ✍🏼 and more coming soon...
+- **🔓🏗️ [e2eShop-pipeDash:](https://github.com/EAlmazanG/e2eShop-pipeDash)** An end-to-end pipeline and dashboard for eCommerce, designed to streamline data ingestion, transformation, and visualization. Using AWS, Airflow, Snowflake, and Tableau, it provides insights enabling data-driven decisions for business optimization.
+- ✍🏼 more coming soon...
 
 
 **☎️ Want to know more about me?**
