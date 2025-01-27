@@ -27,8 +27,8 @@
 **📈 My technical expertise includes**
 - Python (Pandas, Scikit, Keras, etc...), SQL, dbt, and data modeling.
 - Spatial Data Analysis (GIS, ArcGIS, GeoPandas, ArcPy...)
-- AWS, Google Cloud, Azure.
-- Metabase, Superset, Power BI, Looker, Tableau, Amplitude, Streamlit apps...
+- AWS, Google Cloud.
+- Metabase, Superset, Looker, Tableau, Amplitude, Streamlit apps...
 - Need more details? [Check my CV!](https://drive.google.com/file/d/1U3t_1KJ9Jy3EeA-RDYKonyP7VKC_dP_p/view)
 
 
