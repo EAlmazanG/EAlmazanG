@@ -37,6 +37,7 @@
 - **🔓🏁 [sentiment-analysis-reviews:](https://github.com/EAlmazanG/sentiment-analysis-reviews)** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
 - **🔓🏁 [e2eShop-pipeDash:](https://github.com/EAlmazanG/e2eShop-pipeDash)** An end-to-end pipeline and dashboard for eCommerce, designed to streamline data ingestion, transformation, and visualization. Using AWS, Airflow, Snowflake, and Tableau, it provides insights enabling data-driven decisions for business optimization.
 - **🔓🏁 [llm-rag-dbt:](https://github.com/EAlmazanG/llm-rag-dbt)** RAG system for enabling LLM agents to understand dbt project structures. It retrieves context on models, dependencies, and documentation, allowing agents to generate, refine, and modify code step-by-step with project-specific accuracy. This approach reduces hallucinations and improves responses by leveraging the full context of the repository.
+- **🔓🏁 [ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** A structured A/B testing framework that simplifies experiment design, statistical analysis, and segmentation insights. Includes reusable templates, real-world examples, and automated statistical tests for data-driven decision-making.
 - ✍🏼 more coming soon...
 
 
