@@ -13,7 +13,7 @@
 
   <br>
   <p style="font-size: 3em;"><strong>👨🏼‍💻 Data Analyst</strong></p>
-  <p>⚙ Helping companies understand and leverage their data to create strategies that add value.</p>
+  <p>⚙ Helping companies understand and leverage their data.</p>
 
   <br>
 </div>
