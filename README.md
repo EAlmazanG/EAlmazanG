@@ -20,9 +20,9 @@
 
 ### 👋 Hi, I’m Eduardo.
 
-- 👀 I'm a Product Data Analyst specializing in creating data-driven solutions. With over 6 years of experience, I help companies optimize their data analytics infrastructure.
-- 🔭 I work on data analytics, analytics engineering and and business intelligence. My experience spans startups, consulting, and AI research, equipping me with a holistic approach to tackling data challenges.
-
+- 👀 Product Data Analyst specialized in creating data-driven solutions. With over 7 years of experience, I help companies to use their data and optimize their data analytics infrastructure.
+- 🔭 I work on Product Data Analytics, Analytics Engineering and Business Intelligence Engineering.
+- 👷‍♂️ I have worked in the startup environment, strategic consulting and research.
 
 **📈 My technical expertise includes**
 - Python (Pandas, Scikit, Keras, etc...), SQL, dbt, and data modeling.
