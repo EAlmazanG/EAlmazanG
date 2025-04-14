@@ -40,8 +40,9 @@
 - **🔓🏁 [llm-rag-dbt:](https://github.com/EAlmazanG/llm-rag-dbt)** RAG system for enabling LLM agents to understand dbt project structures. It retrieves context on models, dependencies, and documentation, allowing agents to generate, refine, and modify code step-by-step with project-specific accuracy. This approach reduces hallucinations and improves responses by leveraging the full context of the repository.
 - **🔓🏁 [ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** A structured A/B testing framework that simplifies experiment design, statistical analysis, and segmentation insights. Includes reusable templates, real-world examples, and automated statistical tests for data-driven decision-making.
 - **🔓🏁 [forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** Implements an incremental forecasting workflow, starting with basic techniques (Naïve, Moving Average) and progressing to advanced models (ARIMA, SARIMA, ETS, VAR, XGBoost...). Each method is validated and compared to determine the best fit, ensuring a structured and interpretable approach to time series forecasting.
-- **🔓👷‍♂️ [gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)**  Showcases a professional data pipeline architecture using GCP services. Ingests data from REST and streaming APIs, processes it via Dataflow, using Cloud Storage as Datalake, transforms it with dbt Core on Cloud Run, and loads it into BigQuery as Datawarehouse for analysis in Looker Studio. Orchestration is managed with Cloud Composer (Airflow).
-- ✍🏼 more coming soon...
+- **🔓🏁 [gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)**  Showcases a professional data pipeline architecture using GCP services. Ingests data from REST and streaming APIs, processes it via Dataflow, using Cloud Storage as Datalake, transforms it with dbt Core on Cloud Run, and loads it into BigQuery as Datawarehouse for analysis in Looker Studio. Orchestration is managed with Cloud Composer (Airflow).
+
+✍🏼 and more coming ...
 
 
 **☎️ Want to know more about me?**
