@@ -18,22 +18,23 @@
   <br>
 </div>
 
-### 👋 Hi, I’m Eduardo.
+👋 **Hi, I'm Eduardo Almazán!**
 
-- 👀 Product Data Analyst specialized in creating data-driven solutions. With over 7 years of experience, I help companies to use their data and optimize their data analytics infrastructure.
-- 🔭 I work on Product Data Analytics, Analytics Engineering and Business Intelligence Engineering.
-- 👷‍♂️ I have worked in the startup environment, strategic consulting and research.
+📊 **Product Data Analyst & BI Specialist** with over 7 years of experience in Analytics, Data Engineering, and Data-driven solutions. I've successfully delivered strategic analytics projects across startups, strategic consulting (banking sector), and research environments.
 
-**📈 My technical expertise includes**
-- Python (Pandas, Scikit, Keras, etc...), SQL, dbt, and data modeling.
-- A/B Testing, Forecasting, Machine Learning, LLMs.
-- Spatial Data Analysis (GIS, ArcGIS, GeoPandas, ArcPy...)
-- Amazon Web Services (AWS), Google Cloud Platform (GCP).
-- Metabase, Superset, Looker, Tableau, Amplitude, Streamlit apps...
-- Need more details? [Check my CV!](https://drive.google.com/file/d/1U3t_1KJ9Jy3EeA-RDYKonyP7VKC_dP_p/view)
+🚀 **What I do**:
+- **Product Data Analytics**: Behavioral Analytics, Product Metrics, A/B Testing, Experimentation frameworks.
+- **Analytics Engineering**: Data Modeling, Data Warehouse & Datamart development, ETLs, dbt implementation.
+- **Business Intelligence**: Dashboards, Reporting, Self-service analytics tools.
 
+🛠️ **Technical Expertise**:
+- **Programming & Data Analysis**: Python (Pandas, Scikit-learn, Keras, PyTorch), SQL (Redshift, Snowflake, BigQuery), dbt.
+- **Machine Learning & AI**: NLP, Forecasting, Classification, Clustering, Deep Learning, LLMs, LangChain, CrewAI.
+- **Spatial Data Analytics**: GIS, ArcGIS, GeoPandas, ArcPy.
+- **Cloud & Data Infrastructure**: AWS, Google Cloud Platform (GCP).
+- **Visualization & Product Analytics**: Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics.
 
-**🧪My latest projects**
+🧪 **My latest projects**
 - **🔐🏁 GSP**: Fully automated monitoring and investment system using Python and AWS.
 - **🔓🏁 [sentiment-analysis-reviews:](https://github.com/EAlmazanG/sentiment-analysis-reviews)** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
 - **🔓🏁 [e2eShop-pipeDash:](https://github.com/EAlmazanG/e2eShop-pipeDash)** An end-to-end pipeline and dashboard for eCommerce, designed to streamline data ingestion, transformation, and visualization. Using AWS, Airflow, Snowflake, and Tableau, it provides insights enabling data-driven decisions for business optimization.
@@ -42,10 +43,13 @@
 - **🔓🏁 [forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** Implements an incremental forecasting workflow, starting with basic techniques (Naïve, Moving Average) and progressing to advanced models (ARIMA, SARIMA, ETS, VAR, XGBoost...). Each method is validated and compared to determine the best fit, ensuring a structured and interpretable approach to time series forecasting.
 - **🔓🏁 [gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)**  Showcases a professional data pipeline architecture using GCP services. Ingests data from REST and streaming APIs, processes it via Dataflow, using Cloud Storage as Datalake, transforms it with dbt Core on Cloud Run, and loads it into BigQuery as Datawarehouse for analysis in Looker Studio. Orchestration is managed with Cloud Composer (Airflow).
 
+<div></div>
 ✍🏼 and more coming ...
 
+<div></div>
 
 **☎️ Want to know more about me?**
 - 🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US)
 - 🏠 Visit my [website](https://eduardoalmazang.com/)
+- 📄 Check my [CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view)
 - 📨 Feel free to fork this repo or reach out for collaboration opportunities!
