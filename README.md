@@ -20,12 +20,19 @@
 
 👋 **Hi, I'm Eduardo Almazán!**
 
+<br>
+
+
 📊 **Product Data Analyst & BI Specialist** with over 7 years of experience in Analytics, Data Engineering, and Data-driven solutions. I've successfully delivered strategic analytics projects across startups, strategic consulting (banking sector), and research environments.
 
+<br>  
+
 🚀 **What I do**:
-- **Product Data Analytics**: Behavioral Analytics, Product Metrics, A/B Testing, Experimentation frameworks.
+- **Product Data Analytics**: Behavioral Analytics, Product Metrics, A/B Testing, Experimentation frameworks, Machine Learning, Forecasting, LLMs.
 - **Analytics Engineering**: Data Modeling, Data Warehouse & Datamart development, ETLs, dbt implementation.
 - **Business Intelligence**: Dashboards, Reporting, Self-service analytics tools.
+
+<br>   
 
 🛠️ **Technical Expertise**:
 - **Programming & Data Analysis**: Python (Pandas, Scikit-learn, Keras, PyTorch), SQL (Redshift, Snowflake, BigQuery), dbt.
@@ -33,6 +40,8 @@
 - **Spatial Data Analytics**: GIS, ArcGIS, GeoPandas, ArcPy.
 - **Cloud & Data Infrastructure**: AWS, Google Cloud Platform (GCP).
 - **Visualization & Product Analytics**: Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics.
+
+<br>   
 
 🧪 **My latest projects**
 - **🔐🏁 GSP**: Fully automated monitoring and investment system using Python and AWS.
@@ -42,11 +51,11 @@
 - **🔓🏁 [ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** A structured A/B testing framework that simplifies experiment design, statistical analysis, and segmentation insights. Includes reusable templates, real-world examples, and automated statistical tests for data-driven decision-making.
 - **🔓🏁 [forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** Implements an incremental forecasting workflow, starting with basic techniques (Naïve, Moving Average) and progressing to advanced models (ARIMA, SARIMA, ETS, VAR, XGBoost...). Each method is validated and compared to determine the best fit, ensuring a structured and interpretable approach to time series forecasting.
 - **🔓🏁 [gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)**  Showcases a professional data pipeline architecture using GCP services. Ingests data from REST and streaming APIs, processes it via Dataflow, using Cloud Storage as Datalake, transforms it with dbt Core on Cloud Run, and loads it into BigQuery as Datawarehouse for analysis in Looker Studio. Orchestration is managed with Cloud Composer (Airflow).
+ 
 
-<div></div>
 ✍🏼 and more coming ...
 
-<div></div>
+<br>  
 
 **☎️ Want to know more about me?**
 - 🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US)
