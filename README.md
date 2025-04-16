@@ -18,7 +18,7 @@
   <br>
 </div>
 
-👋 **Hi, I'm Eduardo Almazán!**
+👋 **Hi, I'm Eduardo!**
 
 <br>
 
