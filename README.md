@@ -12,7 +12,7 @@
   </div>
 
   <br>
-  <p style="font-size: 3em;"><strong>👨🏼‍💻 Data Analyst</strong></p>
+  <p style="font-size: 3em;"><strong>👨🏼‍💻 Solutions Engineer </strong></p>
   <p>⚙ Building solutions based on Data Strategies</p>
 
   <br>
@@ -23,7 +23,7 @@
 <br>
 
 
-📊 **Product Data Analyst & BI Specialist** with over 7 years of experience in Analytics, Data Engineering, and Data-driven solutions. I've successfully delivered strategic analytics projects across startups, strategic consulting (banking sector), and research environments.
+📊 **Analytics Specialist (Product Data Analytics/BI Engineering/Analytics Engineering) ** with over 7 years of experience in Analytics, Data Engineering, and Data-driven solutions. I've successfully delivered strategic analytics projects across startups, strategic consulting (banking sector), and research environments.
 
 <br>  
 
