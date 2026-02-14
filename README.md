@@ -53,17 +53,17 @@
 ## # 🧪 Projects
 <div align="center">
 
-| Project | Focus |
-| --- | --- |
-| 🔐🏁 **GSP** | Fully automated monitoring and investment system using Python and AWS. |
-| 🔓🏁 **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Cost-effective sentiment classification and review analytics with an interactive dashboard. |
-| 🔓🏁 **[e2eShop-pipeDash](https://github.com/EAlmazanG/e2eShop-pipeDash)** | End-to-end eCommerce pipeline and dashboard with AWS, Airflow, Snowflake, and Tableau. |
-| 🔓🏁 **[llm-rag-dbt](https://github.com/EAlmazanG/llm-rag-dbt)** | RAG context for dbt projects to improve LLM accuracy and reduce hallucinations. |
-| 🔓🏁 **[ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** | A/B testing framework with reusable templates, segmentation, and automated stats. |
-| 🔓🏁 **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Incremental forecasting workflow with structured evaluation. |
-| 🔓🏁 **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Professional data pipeline architecture on GCP with Dataflow, dbt, BigQuery, and Composer. |
-| 🔓🏁 **[talktor](https://github.com/EAlmazanG/talktor)** | AI English tutor with real-time WebSocket feedback and a FastAPI + Next.js stack. |
-| 🔓🏁 **[portfolio-lab](https://github.com/EAlmazanG/portfolio-lab)** | Controlled space for UI experiments, copy iteration, and deployment validation. |
+| Open | Status | Project | Why it exists |
+| --- | --- | --- | --- |
+| 🔐 | ✅ | **GSP** | Fully automated monitoring and investment system using Python and AWS. |
+| 🔓 | ✅ | **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Cost-effective sentiment classification and review analytics with an interactive dashboard. |
+| 🔓 | ✅ | **[e2eShop-pipeDash](https://github.com/EAlmazanG/e2eShop-pipeDash)** | End-to-end eCommerce pipeline and dashboard with AWS, Airflow, Snowflake, and Tableau. |
+| 🔓 | ✅ | **[llm-rag-dbt](https://github.com/EAlmazanG/llm-rag-dbt)** | RAG context for dbt projects to improve LLM accuracy and reduce hallucinations. |
+| 🔓 | ✅ | **[ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** | A/B testing framework with reusable templates, segmentation, and automated stats. |
+| 🔓 | ✅ | **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Incremental forecasting workflow with structured evaluation. |
+| 🔓 | ✅ | **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Professional data pipeline architecture on GCP with Dataflow, dbt, BigQuery, and Composer. |
+| 🔓 | ✅ | **[talktor](https://github.com/EAlmazanG/talktor)** | AI English tutor with real-time WebSocket feedback and a FastAPI + Next.js stack. |
+| 🔓 | ✅ | **[portfolio-lab](https://github.com/EAlmazanG/portfolio-lab)** | Controlled space for UI experiments, copy iteration, and deployment validation. |
 
 </div>
 
