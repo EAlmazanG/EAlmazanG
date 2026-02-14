@@ -12,7 +12,7 @@
   </div>
 
   <br>
-  <p style="font-size: 2.6em; margin: 0;"><strong>Eduardo Almazan</strong></p>
+  <p style="font-size: 2.6em; margin: 0;"><strong>Eduardo Almazán Galisteo</strong></p>
   <p style="margin: 6px 0 0 0; font-size: 1em; color: #6b7280;">@EAlmazanG</p>
   <p style="margin: 10px 0 0 0; font-size: 1.05em;">"Solutions" Engineer</p>
   <p style="margin: 10px 0 0 0; font-size: 0.95em; color: #6b7280;">I solve problems—actually. My job is fixing things: sometimes with data, sometimes not (I also fix the coffee machine when needed).</p>
