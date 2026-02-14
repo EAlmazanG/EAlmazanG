@@ -12,53 +12,71 @@
   </div>
 
   <br>
-  <p style="font-size: 3em;"><strong>👨🏼‍💻 Solutions Engineer </strong></p>
-  <p>⚙ Building solutions based on Data Strategies</p>
-
+  <p style="font-size: 2.6em; margin: 0;"><strong>Eduardo Almazan</strong></p>
+  <p style="margin: 6px 0 0 0; font-size: 1em; color: #6b7280;">@EAlmazanG</p>
+  <p style="margin: 10px 0 0 0; font-size: 1.05em;">"Solutions" Engineer</p>
+  <p style="margin: 10px 0 0 0; font-size: 0.95em; color: #6b7280;">I solve problems—actually. My job is fixing things: sometimes with data, sometimes not (I also fix the coffee machine when needed).</p>
   <br>
 </div>
 
-👋 **Hi, I'm Eduardo!**
+## 👋 Who I am
+<div align="center">
+  <p style="max-width: 760px;">🧩 <strong>Solutions Engineer</strong> with 7+ years turning messy problems into working systems. I lead traceability and data‑transparency work for commodity supply chains, delivering production‑ready pipelines and trusted reporting. Previously I scaled analytics engineering, standardized metrics across teams, and built GIS solutions that improved decision‑making in banking. I read the logs, fix the pipeline, and still ask, “Why are we doing this again?” (but I’ll ship it anyway).</p>
+</div>
 
 <br>
 
+## 🚀 What I do
+<div align="center">
+  <p style="max-width: 760px;">
+    <strong>Solution Design</strong> — rapid diagnosis, clear roadmaps, and delivery with technical + business teams (no crystal ball required).<br>
+    <strong>Data Analytics</strong> — product metrics, experimentation, data visualization, behavioral analytics, applied ML, forecasting, and LLMs (graphs that actually answer questions).<br>
+    <strong>Data Engineering & Architecture</strong> — data modeling, ETLs, dbt, orchestration, dashboards, and self-serve analytics (because manual work is a trap).
+  </p>
+</div>
 
-📊 **Analytics Specialist (Product Data Analytics/BI Engineering/Analytics Engineering)** with over 7 years of experience in Analytics, Data Engineering, and Data-driven solutions. I've successfully delivered strategic analytics projects across startups, strategic consulting (banking sector), and research environments.
+<br>
 
-<br>  
+## 🛠️ Core stack
+<div align="center">
+  <p style="max-width: 760px;">
+    <strong>Programming & Data Analysis</strong>: Python (Pandas, Scikit-learn, Keras, PyTorch), SQL (Redshift, Snowflake, BigQuery), dbt, Airflow, Dagster.<br>
+    <strong>Machine Learning & AI</strong>: NLP, Forecasting, Classification, Clustering, Deep Learning, LLMs, LangChain, CrewAI (no Skynet, promise).<br>
+    <strong>Spatial Data Analytics</strong>: GIS, ArcGIS, GeoPandas, ArcPy.<br>
+    <strong>Cloud & Data Infrastructure</strong>: AWS, Google Cloud Platform (GCP).<br>
+    <strong>Visualization & Product Analytics</strong>: Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics (dashboards without dashboard-itis).
+  </p>
+</div>
 
-🚀 **What I do**:
-- **Product Data Analytics**: Behavioral Analytics, Product Metrics, A/B Testing, Experimentation frameworks, Machine Learning, Forecasting, LLMs.
-- **Analytics Engineering**: Data Modeling, Data Warehouse & Datamart development, ETLs, dbt implementation.
-- **Business Intelligence**: Dashboards, Reporting, Self-service analytics tools.
+<br>
 
-<br>   
+## # 🧪 Projects
+<div align="center">
 
-🛠️ **Technical Expertise**:
-- **Programming & Data Analysis**: Python (Pandas, Scikit-learn, Keras, PyTorch), SQL (Redshift, Snowflake, BigQuery), dbt.
-- **Machine Learning & AI**: NLP, Forecasting, Classification, Clustering, Deep Learning, LLMs, LangChain, CrewAI.
-- **Spatial Data Analytics**: GIS, ArcGIS, GeoPandas, ArcPy.
-- **Cloud & Data Infrastructure**: AWS, Google Cloud Platform (GCP).
-- **Visualization & Product Analytics**: Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics.
+| Project | Focus |
+| --- | --- |
+| 🔐🏁 **GSP** | Fully automated monitoring and investment system using Python and AWS. |
+| 🔓🏁 **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Cost-effective sentiment classification and review analytics with an interactive dashboard. |
+| 🔓🏁 **[e2eShop-pipeDash](https://github.com/EAlmazanG/e2eShop-pipeDash)** | End-to-end eCommerce pipeline and dashboard with AWS, Airflow, Snowflake, and Tableau. |
+| 🔓🏁 **[llm-rag-dbt](https://github.com/EAlmazanG/llm-rag-dbt)** | RAG context for dbt projects to improve LLM accuracy and reduce hallucinations. |
+| 🔓🏁 **[ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** | A/B testing framework with reusable templates, segmentation, and automated stats. |
+| 🔓🏁 **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Incremental forecasting workflow with structured evaluation. |
+| 🔓🏁 **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Professional data pipeline architecture on GCP with Dataflow, dbt, BigQuery, and Composer. |
+| 🔓🏁 **[talktor](https://github.com/EAlmazanG/talktor)** | AI English tutor with real-time WebSocket feedback and a FastAPI + Next.js stack. |
+| 🔓🏁 **[portfolio-lab](https://github.com/EAlmazanG/portfolio-lab)** | Controlled space for UI experiments, copy iteration, and deployment validation. |
 
-<br>   
+</div>
 
-🧪 **My latest projects**
-- **🔐🏁 GSP**: Fully automated monitoring and investment system using Python and AWS.
-- **🔓🏁 [sentiment-analysis-reviews:](https://github.com/EAlmazanG/sentiment-analysis-reviews)** A cost-effective solution for stores and startups to analyze customer reviews, classify sentiment (positive, neutral, negative), and gain actionable insights through an interactive dashboard.
-- **🔓🏁 [e2eShop-pipeDash:](https://github.com/EAlmazanG/e2eShop-pipeDash)** An end-to-end pipeline and dashboard for eCommerce, designed to streamline data ingestion, transformation, and visualization. Using AWS, Airflow, Snowflake, and Tableau, it provides insights enabling data-driven decisions for business optimization.
-- **🔓🏁 [llm-rag-dbt:](https://github.com/EAlmazanG/llm-rag-dbt)** RAG system for enabling LLM agents to understand dbt project structures. It retrieves context on models, dependencies, and documentation, allowing agents to generate, refine, and modify code step-by-step with project-specific accuracy. This approach reduces hallucinations and improves responses by leveraging the full context of the repository.
-- **🔓🏁 [ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** A structured A/B testing framework that simplifies experiment design, statistical analysis, and segmentation insights. Includes reusable templates, real-world examples, and automated statistical tests for data-driven decision-making.
-- **🔓🏁 [forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** Implements an incremental forecasting workflow, starting with basic techniques (Naïve, Moving Average) and progressing to advanced models (ARIMA, SARIMA, ETS, VAR, XGBoost...). Each method is validated and compared to determine the best fit, ensuring a structured and interpretable approach to time series forecasting.
-- **🔓🏁 [gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)**  Showcases a professional data pipeline architecture using GCP services. Ingests data from REST and streaming APIs, processes it via Dataflow, using Cloud Storage as Datalake, transforms it with dbt Core on Cloud Run, and loads it into BigQuery as Datawarehouse for analysis in Looker Studio. Orchestration is managed with Cloud Composer (Airflow).
-- **🔓🏁 [talktor](https://github.com/EAlmazanG/talktor)**: An AI-powered English tutor that supports real-time (WebSocket) or text conversations, providing structured feedback across six language pillars (pronunciation, fluency, grammar, vocabulary, comprehension, expression). It stores sessions, transcripts, and feedback for progress tracking. The project includes a FastAPI backend (REST + WebSocket), a minimal Next.js frontend, and CI/CD workflows for automated releases.
+<p align="center">✍🏼 and more coming ... (because I can’t sit still)</p>
 
-✍🏼 and more coming ...
+<br>
 
-<br>  
-
-**☎️ Want to know more about me?**
-- 🔗 [Connect with me on LinkedIn!](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US)
-- 🏠 Visit my [website](https://eduardoalmazang.com/)
-- 📄 Check my [CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view)
-- 📨 Feel free to fork this repo or reach out for collaboration opportunities!
+## ☎️ Want to know more about me?
+<div align="center">
+  <p style="max-width: 760px;">
+    🔗 <a href="https://www.linkedin.com/in/eduardoalmazang/?locale=en_US">Connect with me on LinkedIn</a><br>
+    🏠 <a href="https://eduardoalmazang.com/">Visit my website</a><br>
+    📄 <a href="https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view">Check my CV</a><br>
+    📨 Feel free to fork this repo or reach out for collaboration opportunities (I reply fast, unless I’m debugging).
+  </p>
+</div>
