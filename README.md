@@ -50,11 +50,13 @@
 
 <br>
 
-## # 🧪 Projects
+## 🧪 Projects
 <div align="center">
 
 | Open | Status | Project | Why it exists |
 | --- | --- | --- | --- |
+| 🔐 | ✅ | **LifeHub** | Private self-hosted platform running multiple personal apps and services on a VPS, with containerized orchestration and shared APIs. |
+| 🔓 | ✅ | **[Chop It](https://github.com/EAlmazanG/chop-it)** | Standalone meal-planning app for recipes, nutrition, weekly plans, and shopping lists, built with Next.js, FastAPI, PostgreSQL, and Docker. |
 | 🔐 | ✅ | **GSP** | Fully automated monitoring and investment system using Python and AWS. |
 | 🔓 | ✅ | **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Cost-effective sentiment classification and review analytics with an interactive dashboard. |
 | 🔓 | ✅ | **[e2eShop-pipeDash](https://github.com/EAlmazanG/e2eShop-pipeDash)** | End-to-end eCommerce pipeline and dashboard with AWS, Airflow, Snowflake, and Tableau. |
