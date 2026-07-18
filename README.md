@@ -1,90 +1,72 @@
-<div align="center">
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/eduardoalmazang/?locale=en_US">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:eduardoalmazang@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://eduardoalmazang.com/">
+      <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+  </div>
 
-# Eduardo Almazán Galisteo
+  <br />
 
-**Solutions Engineer · Data & AI Systems · Product-minded Builder**
-
-I turn ambiguous business and operational problems into reliable software, data products, and automation.
-
-<a href="https://www.linkedin.com/in/eduardoalmazang/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://eduardoalmazang.com/"><img alt="Website" src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="mailto:eduardoalmazang@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-
+  <h1>👨🏼‍💻 Solutions Engineer</h1>
+  <p>⚙️ Building solutions based on data strategies</p>
 </div>
 
 ---
 
-## About
+## 👋 Hi, I'm Eduardo!
 
-I am a **Solutions Engineer with 7+ years of experience** turning complex requirements into systems
-that people can trust and operate. My work sits at the intersection of product, data, software, and
-business operations: I clarify the problem, design a practical path forward, and stay close enough
-to the implementation to make sure it actually ships.
+📊 **Analytics Specialist (Product Data Analytics / BI Engineering / Analytics Engineering)** with over 7 years of experience in analytics, data engineering, and data-driven solutions. I've delivered strategic analytics projects across startups, strategic consulting in banking, and research environments.
 
-I currently focus on traceability and data transparency for commodity supply chains. Previously, I
-scaled analytics engineering practices, standardized metrics across teams, and built geospatial
-solutions for decision-making in banking.
+I like solving problems with data and code. I also fix the coffee machine when required.
 
-## What I build
+## 🚀 What I do
 
-- **End-to-end solutions** — from problem framing and architecture to delivery, observability, and documentation.
-- **Data platforms and analytics products** — reliable pipelines, semantic models, dashboards, experimentation, and self-service workflows.
-- **Applied AI systems** — LLM-enabled tools, RAG, forecasting, classification, and automation with measurable outcomes.
-- **Personal software** — self-hosted applications and services that solve real day-to-day problems.
+- **Product Data Analytics:** behavioral analytics, product metrics, A/B testing, experimentation frameworks, machine learning, forecasting, and LLMs.
+- **Analytics Engineering:** data modeling, data warehouses and datamarts, ETLs, dbt, and orchestration.
+- **Business Intelligence:** dashboards, reporting, and self-service analytics tools.
+- **Solution Engineering:** turning unclear requirements into useful systems that can actually be run, tested, and maintained.
 
-## Selected work
+## 🛠️ Technical expertise
 
-| Project | Access | What it demonstrates |
-| --- | :---: | --- |
-| **LifeHub** | Private | A self-hosted platform running multiple personal apps and services on a VPS, with containerized orchestration, shared APIs, and modular deployment boundaries. |
-| **[Chop It](https://github.com/EAlmazanG/chop-it)** | Public | A polished meal-planning workflow for recipes, nutrition, weekly plans, and shopping lists. Built with Next.js, FastAPI, PostgreSQL, and Docker. |
-| **[Talktor](https://github.com/EAlmazanG/talktor)** | Public | An AI English tutor with real-time WebSocket feedback and a FastAPI + Next.js architecture. |
-| **GSP** | Private | An automated investment monitoring system built with Python and AWS. |
-
-<details>
-<summary><strong>More data, AI, and product projects</strong></summary>
-
-<br>
-
-| Project | Focus |
+| Area | Skills and tools |
 | --- | --- |
-| **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Cost-effective sentiment classification and review analytics with an interactive dashboard. |
-| **[e2e-shop-pipedash](https://github.com/EAlmazanG/e2e-shop-pipedash)** | End-to-end eCommerce pipeline and dashboard using AWS, Airflow, Snowflake, and Tableau. |
-| **[llm-rag-dbt](https://github.com/EAlmazanG/llm-rag-dbt)** | RAG context for dbt projects to improve LLM accuracy and reduce hallucinations. |
-| **[ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** | Reusable A/B testing workflows with segmentation and automated statistical analysis. |
-| **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Incremental forecasting with structured evaluation and reproducible workflows. |
-| **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Data platform architecture on GCP with Dataflow, dbt, BigQuery, and Composer. |
-| **[portfolio-lab](https://github.com/EAlmazanG/portfolio-lab)** | A controlled environment for UI experiments, copy iteration, and deployment validation. |
+| **Programming & data analysis** | Python (Pandas, Scikit-learn, Keras, PyTorch), SQL (Redshift, Snowflake, BigQuery), dbt, Airflow, Dagster |
+| **Agentic development & workflow automation** | Agent-driven programming with Claude Code, Codex, and OpenCode; multi-agent workflows; process automation; tool and API integration |
+| **Machine learning & LLMs** | NLP, forecasting, classification, clustering, deep learning, RAG, LLM application design, LangChain, CrewAI |
+| **Spatial data analytics** | GIS, ArcGIS, GeoPandas, ArcPy |
+| **Cloud & data infrastructure** | AWS, Google Cloud Platform, Docker, PostgreSQL |
+| **Visualization & product analytics** | Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics |
 
-</details>
+## 🧪 Projects
 
-## Toolkit
+| Access | Project | What it does | Technologies |
+| :---: | --- | --- | --- |
+| 🔐 | **LifeHub** | Personal modular hub running several services and applications on a VPS, with shared web and API layers plus container orchestration. | Next.js · FastAPI · PostgreSQL · Docker Compose |
+| 🔐 | **GSP** | Fully automated investment monitoring and management system. | Python · AWS |
+| 🔓 | **[Chop It!](https://github.com/EAlmazanG/chop-it)** | Single-user meal planning demo covering ingredients, recipes, weekly plans, and actionable grocery lists. | Next.js · TypeScript · FastAPI · PostgreSQL · Docker |
+| 🔓 | **[Agentic PoC Framework](https://github.com/EAlmazanG/agentic-poc-framework)** | Reusable full-stack template for building proof-of-concept applications with clear boundaries, quality checks, documentation, and coding-agent guidance. | Python · FastAPI · Next.js · TypeScript · Docker · GitHub Actions |
+| 🔓 | **[Portfolio Lab](https://github.com/EAlmazanG/portfolio-lab)** | Simulates dynamic DCA strategies and portfolio rebalancing using technical indicators across multiple assets. | Next.js · TypeScript · FastAPI · PostgreSQL · Docker |
+| 🔓 | **[Talktor](https://github.com/EAlmazanG/talktor)** | AI English tutor for real-time or text conversations, with structured feedback and progress tracking. | Python · FastAPI · Next.js · WebSockets · LLMs |
+| 🔓 | **[sentiment-analysis-reviews](https://github.com/EAlmazanG/sentiment-analysis-reviews)** | Classifies customer-review sentiment and presents the results in an interactive analytics dashboard. | Python · NLP · LLMs · Streamlit |
+| 🔓 | **[e2e-shop-pipedash](https://github.com/EAlmazanG/e2e-shop-pipedash)** | End-to-end commerce data pipeline and dashboard for sales, inventory, and customer analysis. | Python · AWS · Airflow · Snowflake · Tableau |
+| 🔓 | **[llm-rag-dbt](https://github.com/EAlmazanG/llm-rag-dbt)** | Gives LLM agents repository-aware context about dbt models, dependencies, and documentation through RAG. | Python · RAG · LLMs · dbt |
+| 🔓 | **[ab-test-framework](https://github.com/EAlmazanG/ab-test-framework)** | Reusable framework for experiment design, statistical testing, and segmentation analysis. | Python · Statistics · Jupyter |
+| 🔓 | **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Compares forecasting methods incrementally, from simple baselines to statistical and machine-learning models. | Python · statsmodels · XGBoost · Jupyter |
+| 🔓 | **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Reference data platform for batch and streaming ingestion, transformation, warehousing, orchestration, and reporting on GCP. | GCP · Dataflow · dbt · BigQuery · Airflow |
 
-| Area | Technologies and practices |
-| --- | --- |
-| **Software & APIs** | Python, FastAPI, Next.js, REST APIs, WebSockets, Docker, CI/CD |
-| **Data Engineering** | SQL, dbt, Airflow, Dagster, data modeling, ETL/ELT, orchestration |
-| **Analytics** | Pandas, product metrics, experimentation, forecasting, Looker, Tableau, Superset, Metabase |
-| **AI & Machine Learning** | PyTorch, Keras, Scikit-learn, NLP, LLMs, RAG, LangChain, CrewAI |
-| **Cloud & Warehousing** | AWS, GCP, Snowflake, BigQuery, Redshift |
-| **Geospatial** | GIS, ArcGIS, GeoPandas, ArcPy |
-
-## How I work
-
-1. **Understand the real constraint.** The first request is rarely the whole problem.
-2. **Ship a useful vertical slice.** Small, complete solutions reveal more than speculative architecture.
-3. **Make the system operable.** Tests, documentation, observability, and clear ownership are part of the product.
-4. **Improve from evidence.** Measure what matters, learn quickly, and keep the design proportional to the problem.
+<p align="center">✍🏼 And more coming... because apparently I can't leave well enough alone.</p>
 
 ---
 
-<div align="center">
+## ☎️ Want to know more about me?
 
-### Let’s build something useful
-
-[LinkedIn](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US) ·
-[Website](https://eduardoalmazang.com/) ·
-[CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view) ·
-[Email](mailto:eduardoalmazang@gmail.com)
-
-</div>
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US)
+- 🏠 Visit my [website](https://eduardoalmazang.com/)
+- 📄 Check my [CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view) — **update pending** (yes, it is on the list)
+- 📨 Feel free to fork a repo or reach out if you want to build something useful
