@@ -13,26 +13,35 @@
 
   <br />
 
-  <h1>👨🏼‍💻 Solutions Engineer</h1>
-  <p>⚙️ Building solutions based on data strategies</p>
+  <h1> Senior Solutions Engineer & Data Product Specialist</h1>
+  <h3>🛠️ Engineer by title, fire extinguisher by reality. 🧯   </h3>
+  <p>  I build systems that scale and solve (almost) any data disaster.</p>
 </div>
 
----
+ <br>
 
-## 👋 Hi, I'm Eduardo!
+## 👀 Who is this guy?
 
-📊 **Analytics Specialist (Product Data Analytics / BI Engineering / Analytics Engineering)** with over 7 years of experience in analytics, data engineering, and data-driven solutions. I've delivered strategic analytics projects across startups, strategic consulting in banking, and research environments.
+👋 Hi, I'm Eduardo! I’ve spent the last 8+ years dealing with the technical stuff most people try to avoid. I specialize in fixing broken data setups and automating complex workflows—whether that means wrestling with cloud architecture, deploying LLM pipelines, or figuring out product analytics. My biggest win so far was slashing technical debt by 70% in a single environment, mostly because I hate working with messy code. 
 
-I like solving problems with data and code. I also fix the coffee machine when required.
+Lately, I’ve been driving data strategy and solutions at **OpenSC**. Before that, I was optimizing product analytics and scale at **Job&Talent**, doing some heavy-lifting banking consulting at **Management Solutions**, and getting my hands dirty in research back at the **University of Zaragoza**. Long story short: from startups and scale-ups to traditional consulting, academia, and enterprise giants, I’ve been around the block, seen almost every tech stack, and dealt with pretty much every flavor of organizational chaos.
 
-## 🚀 What I do
+I can build pretty much anything with code, design data strategies that actually last, and yes, I still fix the coffee machine when required.
 
-- **Product Data Analytics:** behavioral analytics, product metrics, A/B testing, experimentation frameworks, machine learning, forecasting, and LLMs.
-- **Analytics Engineering:** data modeling, data warehouses and datamarts, ETLs, dbt, and orchestration.
-- **Business Intelligence:** dashboards, reporting, and self-service analytics tools.
-- **Solution Engineering:** turning unclear requirements into useful systems that can actually be run, tested, and maintained.
+<br>
 
-## 🛠️ Technical expertise
+## 🚀 The short version of everything I can actually do... (because the full list wouldn't fit here)
+
+- **Product Data Analytics:** behavioral analytics, product metrics, A/B testing, experimentation frameworks, machine learning, forecasting, and LLMs (basically, translating raw user chaos into actual numbers and smart systems that business teams can actually trust).
+- **Data/Analytics Engineering:** data modeling, data warehouses and datamarts, ETLs, SQL, dbt, and orchestration (the heavy lifting required to make sure the data lake doesn't turn into a data swamp before lunch).
+- **Business Intelligence:** dashboards, reporting, and self-service analytics tools (building clean, bulletproof visuals so people can answer their own questions without slacking me every five minutes).
+- **Solution Engineering:** taking fuzzy, incomplete requirements and turning them into reality—designing, implementing, and standardizing systems from scratch, while ensuring they are continuously maintained, upgraded, and optimized to not fall apart over time.
+- **Forward Deployment:** embedding directly with clients or teams to unblock technical messes, build production-ready integrations, and ensure the software actually delivers value instead of just sitting in a repository.
+- **Workflow Automation:** streamlining processes, scripts, and internal tools to eliminate manual overhead (mostly because human beings are naturally lazy, but also because nothing beats the feeling of watching a boring task run itself automatically while productivity spikes).
+
+<br>
+
+## 🛠️ Technical expertise (the boring bit)
 
 | Area | Skills and tools |
 | --- | --- |
@@ -43,7 +52,9 @@ I like solving problems with data and code. I also fix the coffee machine when r
 | **Cloud & data infrastructure** | AWS, Google Cloud Platform, Docker, PostgreSQL |
 | **Visualization & product analytics** | Looker, Tableau, Superset, Metabase, Streamlit, Amplitude, Google Analytics |
 
-## 🧪 Projects
+<br>
+
+## 🧪 Projects (everything I’ve spent my free time on over the years...)
 
 | Access | Project | What it does | Technologies |
 | :---: | --- | --- | --- |
@@ -61,13 +72,15 @@ I like solving problems with data and code. I also fix the coffee machine when r
 | 🔓 | **[forecast-incremental-workflow](https://github.com/EAlmazanG/forecast-incremental-workflow)** | Compares forecasting methods incrementally, from simple baselines to statistical and machine-learning models. | Python · statsmodels · XGBoost · Jupyter |
 | 🔓 | **[gcp-dbt](https://github.com/EAlmazanG/gcp-dbt)** | Reference data platform for batch and streaming ingestion, transformation, warehousing, orchestration, and reporting on GCP. | GCP · Dataflow · dbt · BigQuery · Airflow |
 
-<p align="center">✍🏼 And more coming... because apparently I can't leave well enough alone.</p>
+<br>
 
----
+<p align="center">And more coming... because my brain doesn't have a standby mode...</p>
 
-## ☎️ Want to know more about me?
+<br>
+
+## ☎️ Want to know more about me? I'm sure you do...
 
 - 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/eduardoalmazang/?locale=en_US)
 - 🏠 Visit my [website](https://eduardoalmazang.com/)
-- 📄 Check my [CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view) — **update pending** (yes, it is on the list)
-- 📨 Feel free to fork a repo or reach out if you want to build something useful
+- 📄 Check my [CV](https://drive.google.com/file/d/1wAkfcbb8Mo7r0ajLkj5PDg3yMKFSM4YG/view) — **update pending** (yes, it is on the list...)
+- 📨 Feel free to fork a repo or reach out if you want to build something useful!
