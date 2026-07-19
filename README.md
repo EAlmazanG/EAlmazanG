@@ -14,8 +14,8 @@
   <br />
 
   <h1> Senior Solutions Engineer & Data Product Specialist</h1>
-  <h3>🛠️ Engineer by title, fire extinguisher by reality. 🧯   </h3>
-  <p>  I build systems that scale and solve (almost) any data disaster.</p>
+  <h3>🛠️ Engineer by title, official Firefighter for data disasters.  🧯   </h3>
+  <p>  II build pretty much anything and fix (almost) any data problem.</p>
 </div>
 
  <br>
