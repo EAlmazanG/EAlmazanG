@@ -22,7 +22,7 @@
 
 ## 👀 Who is this guy?
 
-👋 Hi, I'm Eduardo! I’ve spent the last 8+ years dealing with the technical stuff most people try to avoid. I specialize in fixing broken data setups and automating complex workflows—whether that means wrestling with cloud architecture, deploying LLM pipelines, or figuring out product analytics. My biggest win so far was slashing technical debt by 70% in a single environment, mostly because I hate working with messy code. 
+👋 Hi, I'm Eduardo! I’ve spent the last 9+ years dealing with the technical stuff most people try to avoid. I specialize in fixing broken data setups and automating complex workflows—whether that means wrestling with cloud architecture, deploying LLM pipelines, or figuring out product analytics. My biggest win so far was slashing technical debt by 70% in a single environment, mostly because I hate working with messy code. 
 
 Lately, I’ve been driving data strategy and solutions at **OpenSC**. Before that, I was optimizing product analytics and scale at **Job&Talent**, doing some heavy-lifting banking consulting at **Management Solutions**, and getting my hands dirty in research back at the **University of Zaragoza**. Long story short: from startups and scale-ups to traditional consulting, academia, and enterprise giants, I’ve been around the block, seen almost every tech stack, and dealt with pretty much every flavor of organizational chaos.
 
