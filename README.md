@@ -59,6 +59,7 @@ I can build pretty much anything with code, design data strategies that actually
 | Access | Project | What it does | Technologies |
 | :---: | --- | --- | --- |
 | 🔐 | **LifeHub** | Personal modular hub running several services and applications on a VPS, with shared web and API layers plus container orchestration. | Next.js · FastAPI · PostgreSQL · Docker Compose |
+| 🔐 | **eduardoalmazang.com** | Personal website and portfolio. | Web |
 | 🔐 | **GSP** | Fully automated investment monitoring and management system. | Python · AWS |
 | 🔓 | **[Chop It!](https://github.com/EAlmazanG/chop-it)** | Single-user meal planning demo covering ingredients, recipes, weekly plans, and actionable grocery lists. | Next.js · TypeScript · FastAPI · PostgreSQL · Docker |
 | 🔓 | **[Portfolio Analytics](https://github.com/EAlmazanG/portfolio-analytics)** | Spreadsheet-first personal finance demo covering safe XLSX ingestion, net worth, allocation, returns, benchmarks, real estate, and financial goals. | Next.js · TypeScript · FastAPI · PostgreSQL · Docker |
